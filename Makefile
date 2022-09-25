@@ -11,3 +11,6 @@ test: style
 
 fmt:
 	pipenv run nox -s fmt
+
+download_data:
+	sh download_datasets.sh

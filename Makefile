@@ -14,3 +14,6 @@ fmt:
 
 download_data:
 	sh download_datasets.sh
+
+download_hw_5_models:
+	sh download_models.sh

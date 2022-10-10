@@ -25,10 +25,10 @@ Write a script for loading these models with pickle. Score this client:
 ```
 What's the probability that this client will get a credit card?
 
-- [X]0.162
-- [ ]0.391
-- [ ]0.601
-- [ ]0.993
+- [X] 0.162
+- [ ] 0.391
+- [ ] 0.601
+- [ ] 0.993
 
 You can run the `load_models.py` file to get this result.
 
